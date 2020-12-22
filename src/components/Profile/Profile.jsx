@@ -6,7 +6,7 @@ const Profile = () => {
     return (
         <div className={s.content}>
             <div>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Roland_logo.svg/1200px-Roland_logo.svg.png" />
+                <img src="http://carsten.pl/images/slide/slidemount8.jpg" />
             </div>
             <div>
                 ava + desc
