@@ -4,13 +4,14 @@
     padding-right: 60px;  
   }
 
-.item {
+.item a {
     color: #fff;
     line-height: 1.6;
     font-size: 18px;
     padding-left: 10px;
+    text-decoration: none;
   }
 
-.item.active {
-  color: gold;
-}
+.item a.activeLink {
+   color: gold;
+  }
