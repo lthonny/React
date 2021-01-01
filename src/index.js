@@ -5,11 +5,12 @@ import {App} from './App';
 import reportWebVitals from './reportWebVitals';
 import Post from "./components/Profile/MyPosts/Post/Post";
 import state from "./Redux/state";
+import {addPost} from "./Redux/state";
 import {BrowserRouter} from "react-router-dom";
 
 ReactDOM.render(
     <BrowserRouter>
-        <App state={state}/>
+        <App state={state} addPost={addPost}/>
     </BrowserRouter>, document.getElementById('root'));
 
 // If you want to start measuring performance in your app, pass a function
