@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
@@ -86,6 +87,9 @@
       <workItem from="1609499357880" duration="8395000" />
       <workItem from="1609515658141" duration="6150000" />
       <workItem from="1609943127928" duration="9979000" />
+      <workItem from="1609974448673" duration="92000" />
+      <workItem from="1610019953795" duration="3353000" />
+      <workItem from="1610029544841" duration="3522000" />
     </task>
     <servers />
   </component>

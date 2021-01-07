@@ -21,8 +21,7 @@ export const App = (props) => {
                 <Route path='/profile'
                        render={() => <Profile
                            profilePage={props.state.profilePage}
-                           addPost={props.addPost}
-                           updateNewsPostText={props.updateNewsPostText}/>
+                           dispatch={props.dispatch}/>
                        }/>
                 <Route path='/news' render={() => <News/>}/>
                 <Route path='/music' render={() => <Music/>}/>
