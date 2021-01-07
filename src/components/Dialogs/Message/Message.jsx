@@ -12,16 +12,14 @@ import s from './../Dialogs.module.css';
 let newMessageElement = React.createRef();
 let addMessage = () => {
     let text = newMessageElement.current.value;
-    alert(text)
+    alert(text);
 }
 
 const Message = (props) => {
     return (
         <div className={s.dialogs}>
-            {props.message}
             <div>
-                <textarea ref={newMessageElement}></textarea>
-                <button onClick={addMessage}>add message</button>
+                {props.message}
             </div>
         </div>
 
