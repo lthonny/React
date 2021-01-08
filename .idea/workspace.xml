@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4fe3bfc-34c5-4897-b6b7-267c00a76dd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Redux/dialogs-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/profile-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Redux/sidebar-reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/state.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Redux" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,11 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\web-frontend\react-it-kamasutra\projects\01-first-project\react-kabzda-1\src\Redux" />
       <recent name="A:\web-frontend\react-it-kamasutra\projects\01-first-project\react-kabzda-1\src" />
       <recent name="A:\web-frontend\react-it-kamasutra\projects\01-first-project\react-kabzda-1\src\components\Dialogs\Message" />
       <recent name="A:\web-frontend\react-it-kamasutra\projects\01-first-project\react-kabzda-1\src\components\Dialogs\DialogItem" />
       <recent name="A:\web-frontend\react-it-kamasutra\projects\01-first-project\react-kabzda-1\src\components\Profile\ProfileInfo" />
-      <recent name="A:\web-frontend\react-it-kamasutra\projects\01-first-project\react-kabzda-1\src\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="A:\web-frontend\react-it-kamasutra\projects\01-first-project\react-kabzda-1\src\components\Profile\ProfileInfo " />
@@ -89,6 +90,8 @@
       <workItem from="1609974448673" duration="92000" />
       <workItem from="1610019953795" duration="3353000" />
       <workItem from="1610029544841" duration="9149000" />
+      <workItem from="1610056479445" duration="188000" />
+      <workItem from="1610102383576" duration="3189000" />
     </task>
     <servers />
   </component>
@@ -113,7 +116,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx</url>
           <line>12</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
